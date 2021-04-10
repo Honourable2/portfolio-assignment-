@@ -1,0 +1,131 @@
+.logo{
+background-color: blueviolet;
+size: 10px;
+height: fit-content;
+width: fit-content;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bolder;
+letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+
+}
+.nav-menu{
+    flex-direction: column;
+    text-decoration: double;
+    text-align: end;
+    margin-top: -70px;
+    text-decoration: none;
+    word-spacing: 2px;
+  
+}
+.header-body{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+    background-color: crimson;
+}
+body{
+
+}
+.portfolio{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: gray;
+}
+
+.restu_mobile{
+    display: flex;
+    justify-content: space-evenly;
+}
+.restu{
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.restuimage{
+    text-align: right;
+    padding-right: 100px;
+    padding-bottom: 400px;
+    margin-top: 100px;
+}
+.danfil{
+    display: flex;
+    justify-content: space-evenly;
+}
+.danfilbody{
+    padding-left: 200px;
+    text-align: left;
+}
+.danfil{
+    margin-top: -300px;
+}
+.cutieimage{
+    text-align: right;
+    padding-right: 50px;
+    padding-bottom: 400px;
+    margin-top: 30px;
+}
+.ct_author{
+    margin-top: -300px;
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+.ctauthor{
+    padding-left: 200px;
+    text-align: left;
+}
+.ctimage{
+    text-align: right;
+    padding-right: 50px;
+    padding-bottom: 400px;
+    margin-top: 30px;
+}
+.mujjo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -300px;
+}
+.mujjo_text{
+    padding-left: 200px;
+    text-align: left;
+}
+.mujjo_image{
+    height: 400px;
+}
+.heaureka{
+display: flex;
+justify-content: space-evenly;
+padding-top: 100px;
+}
+.heaureka_text{
+    padding-left: 200px;
+    text-align: left;
+}
+.heaureka_image{
+    text-align: right;
+    padding-right: -200px;
+}
+.aboutme{
+text-align: center;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.ok{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.foot{
+    text-align: center;
+    background-color: dimgray;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.about_ok{
+    background-color: maroon;
+}
